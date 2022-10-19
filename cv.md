@@ -16,8 +16,6 @@ ___
 ### Winner of the third stage of the Republican Olympiad in Mathematics.Entered the Belarusian State University of Informatics and Radioelectronics in 2021, majoring in computer science and programming technology. Participant of the international student Olympiad in programming ICPC. Finalist of the international Student Programming Olympiad BSUIR OPEN X RELOAD.
 
 
-### About two years ago, I became interested in machine learning. I studied the Python programming language and its libraries for data session and machine learning pandas, numpy, matplotlib, tenserflow.
-
 ### Studying at the university interested me in studying web programming, or rather frontend development.
 ### I am sure that the experience I gained in acquiring knowledge at university and school will help me on the way to becoming a professional frontend developer.
 
