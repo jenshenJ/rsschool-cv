@@ -60,7 +60,7 @@ function solution(str) {
 ```
 ___
 ## __Courses:__
-  * ### HTML and CSS Manual on MDN web docs
+  * ### MDN web docs
   * ### RS Schools Course «JavaScript/Front-end. Stage 1» 
 ___
 ## __Languages:__
