@@ -64,7 +64,7 @@ ___
   * ### RS Schools Course «JavaScript/Front-end. Stage 1» 
 ___
 ## __Languages:__
-*  ### English - Intermediate/Upper-intermediate (according to the online test at www.efset.org)
+*  ### English - Advanced (according to the online test at www.efset.org)
     ![EnglishLevel](./sources/EnglishLevel.png)
 * ### Russian - Native
 * ### Belarusian - Native
