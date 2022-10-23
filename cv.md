@@ -65,7 +65,7 @@ ___
 ___
 ## __Languages:__
 *  ### English - Advanced (according to the online test at www.efset.org)
-    ![EnglishLevel](./sources/EnglishLevel.png)
+    ![EnglishLevel](EnglishLevel.png)
 * ### Russian - Native
 * ### Belarusian - Native
 
