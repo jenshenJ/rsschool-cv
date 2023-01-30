@@ -1,6 +1,6 @@
 # Yauheni Mileika  
 
-## Junior Frontend Developer  
+## Junior/Trainee Frontend Developer  
 #
 ___
 
@@ -35,33 +35,11 @@ ___
 * ### Linux
 * ### VS Code, VS, PyCharm
 * ### Adobe Photoshop, Figma
----
-## __Code example:__
-### __String split KATA from CODEWARS:__ *Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
-```js
-function solution(str) {
-    res = [];
-    for (let i = 0; i < str.length - 2; i += 2) {
-        res.push(str.slice(i, i + 2));
-    }
 
-    if (!str.length) {
-        return res;
-    }
-    
-    if (str.length % 2) {
-        res.push(str[str.length - 1] + "_");
-    } else {
-        res.push(str.slice(str.length - 2));
-    }
-
-    return res;
-}
-```
 ___
 ## __Courses:__
   * ### MDN web docs
-  * ### RS Schools Course «JavaScript/Front-end. Stage 1» 
+  * ### RS Schools Course «JavaScript/Front-end» 
 ___
 ## __Languages:__
 *  ### English - Advanced (according to the online test at www.efset.org)
