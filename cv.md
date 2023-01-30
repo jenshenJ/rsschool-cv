@@ -22,7 +22,7 @@ ___
 ---
 ## __Skills and Proficiency:__
 * ### HTML5, CSS3
-* ### JavaScript Basics
+* ### JavaScript
 * ### Data structures and algorithms
 * ### DOM API and Events
 * ### Preprocessors. SASS
@@ -30,10 +30,7 @@ ___
 * ### Git, GitHub
 * ### Chrome DevTools
 * ### webpack
-* ### C++ QT framework
-* ### C# Basics
 * ### Linux
-* ### VS Code, VS, PyCharm
 * ### Adobe Photoshop, Figma
 
 ___
