@@ -29,6 +29,8 @@ ___
 * ### CSS positioning and Flexbox
 * ### Git, GitHub
 * ### Chrome DevTools
+* ### TypeScript Basics
+* ### Docker Bacics
 * ### webpack
 * ### Linux
 * ### Adobe Photoshop, Figma
