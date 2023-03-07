@@ -23,6 +23,7 @@ ___
 ## __Skills and Proficiency:__
 * ### HTML5, CSS3
 * ### JavaScript
+* ### React Basics
 * ### Data structures and algorithms
 * ### DOM API and Events
 * ### Preprocessors. SASS
